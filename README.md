@@ -8,6 +8,8 @@ The program is very helpful to find the results of the employee full details eas
 # BADGES
 [![Code Quality - Cppcheck](https://github.com/sudhakarreddy4098/Stepin_Employee-Management-Sys/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sudhakarreddy4098/Stepin_Employee-Management-Sys/actions/workflows/cppcheck.yml)
 
+[![Git Inspector](https://github.com/sudhakarreddy4098/Stepin_Employee-Management-Sys/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/sudhakarreddy4098/Stepin_Employee-Management-Sys/actions/workflows/gitinspector.yml)
+
  ## Folder Structure
 |Folder             | Description |
 |-------------------| -----------------------------------------|
