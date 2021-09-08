@@ -6,6 +6,7 @@ The program is very helpful to find the results of the employee full details eas
 # GIT CODACY
 
 # BADGES
+[![Code Quality - Cppcheck](https://github.com/sudhakarreddy4098/Stepin_Employee-Management-Sys/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sudhakarreddy4098/Stepin_Employee-Management-Sys/actions/workflows/cppcheck.yml)
 
  ## Folder Structure
 |Folder             | Description |
