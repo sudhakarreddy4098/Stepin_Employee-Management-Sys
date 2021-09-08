@@ -3,6 +3,9 @@ This project is the implementation for “ EMPLOYEE MANAGEMENT SYSTEM”  is a p
 The program is very helpful to find the results of the employee full details easily.we can find the any employee by entering the employee id. The project and implementation is developed by using c.
 
 # GIT INSPECTOR
+![gitinspector](https://www.code-inspector.com/project/28300/score/svg)
+
+![gitinspector](https://www.code-inspector.com/project/28300/status/svg)
 # GIT CODACY
 
 # BADGES
